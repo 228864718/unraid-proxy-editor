@@ -4,10 +4,10 @@
   <!ENTITY name        "proxy.editor">
   <!ENTITY author      "ludoux">
   <!ENTITY version     "2022.12.22e">
-  <!ENTITY minosver    "6.10.0">
+  <!ENTITY minosver    "6.8.0">
   <!ENTITY launch      "Settings/ProxyEditor">
   <!ENTITY branch      "master">
-  <!ENTITY githubURL   "https://raw.githubusercontent.com/ludoux/unraid-proxy-editor/&branch;">
+  <!ENTITY githubURL   "https://raw.github.com/ludoux/unraid-proxy-editor/&branch;">
   <!ENTITY giteeURL    "https://gitee.com/ludoux/unraid-proxy-editor/raw/&branch;">
   <!ENTITY gitCHANNEL  "GitHub">
   <!ENTITY gitURL      "&githubURL;">
