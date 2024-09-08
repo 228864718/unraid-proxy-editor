@@ -7,7 +7,7 @@
   <!ENTITY minosver    "6.8.0">
   <!ENTITY launch      "Settings/ProxyEditor">
   <!ENTITY branch      "master">
-  <!ENTITY githubURL   "https://raw.github.com/ludoux/unraid-proxy-editor/&branch;">
+  <!ENTITY githubURL   "https://raw.kkgithub.com/ludoux/unraid-proxy-editor/&branch;">
   <!ENTITY giteeURL    "https://gitee.com/ludoux/unraid-proxy-editor/raw/&branch;">
   <!ENTITY gitCHANNEL  "GitHub">
   <!ENTITY gitURL      "&githubURL;">
